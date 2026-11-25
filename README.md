@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:0f172a,100:0891b2&text=NIHELL%20S&fontSize=65&fontColor=ffffff&stroke=22d3ee&strokeWidth=1&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%7C%20AI%20%26%20Machine%20Learning&descSize=17&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:164e63,100:0891b2&height=220&section=header&text=NIHELL%20S&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58" alt="Nihell S - Software Developer"/>
 
 <a href="https://nihell-portfolio.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Intelligent+Solutions;Software+Development+%26+Artificial+Intelligence;IEEE+Published+Researcher;Available+for+Full-Time+Opportunities" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Software+Development+%26+Artificial+Intelligence;IEEE+Published+Researcher;Open+to+Full-Time+Opportunities;Available+for+Immediate+Joining" alt="Animated Introduction"/>
 </a>
 
 <br/>
@@ -22,61 +22,71 @@
 
 > Building intelligent applications through software engineering and artificial intelligence.
 
-- 🎓 Computer Science and Engineering (Artificial Intelligence) graduate — 2026.
+- 🎓 B.E. Computer Science and Engineering (Artificial Intelligence) — 2026.
 - 🏛️ Sathyabama Institute of Science and Technology, Chennai.
-- 💻 Interested in Software Development, AI/ML and Generative AI.
+- 💻 Passionate about Software Development, AI/ML and Generative AI.
 - 🔬 IEEE published researcher.
-- 🚀 Experienced in developing AI-powered applications and backend solutions.
-- 🟢 Available for immediate joining.
+- 🤖 Interested in developing intelligent applications and backend solutions.
+- 🌱 Continuously learning and exploring emerging technologies.
+- 🟢 Open to full-time opportunities and available for immediate joining.
 
 ---
 
-## 🧩 Technical Arsenal
+## 🧩 Technical Skills
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming Languages"/>
 
-### AI & Machine Learning
+<br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logoColor=white)
+
+### Artificial Intelligence & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI and ML"/>
 
 <br/><br/>
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0F172A?style=flat-square&logo=huggingface)
 ![Langflow](https://img.shields.io/badge/Langflow-0F172A?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-0F172A?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit)
 
-### Development
+### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,vite,flask,fastapi,nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite,flask,fastapi,nodejs,express&theme=dark" alt="Development Frameworks"/>
 
-### Databases & Developer Tools
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Developer Tools"/>
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 ### 01 — Automated Oral Cancer Diagnosis
 
 Deep learning-based classification of oral lesion images with Grad-CAM visualization.
 
-`Python` `TensorFlow` `Deep Learning` `CNN`
+`Python` `TensorFlow` `Deep Learning` `CNN` `Grad-CAM`
 
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/nihells/Automated-diagnosis-of-oral-cancer-detection-using-lesion-images)
 [![Publication](https://img.shields.io/badge/IEEE_PUBLICATION-0891B2?style=for-the-badge)](https://ieeexplore.ieee.org/document/11543693)
 
 ### 02 — AI-Based Code Review Assistant
 
-Generative AI-powered application that analyzes code and provides improvement suggestions.
+Generative AI-powered application that analyzes source code, identifies potential issues and provides improvement suggestions.
 
 `Python` `Langflow` `Streamlit` `LLM` `Hugging Face`
 
@@ -84,18 +94,18 @@ Generative AI-powered application that analyzes code and provides improvement su
 
 ### 03 — Urumi MCP Gateway
 
-MCP gateway implementation developed as a technical assignment.
+Model Context Protocol gateway implementation developed as part of a technical assignment.
 
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/nihells/urumi-mcp-gateway)
 
 ### 04 — Personal Developer Portfolio
 
-Responsive professional portfolio showcasing projects, technical skills, internships and research.
+Responsive professional portfolio showcasing technical skills, projects, internships, certifications and research publications.
 
 `React` `Vite` `CSS` `Vercel`
 
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/nihells/nihell-portfolio)
-[![Live Demo](https://img.shields.io/badge/LIVE_WEBSITE-0891B2?style=for-the-badge&logo=vercel)](https://nihell-portfolio.vercel.app)
+[![Live Website](https://img.shields.io/badge/LIVE_WEBSITE-0891B2?style=for-the-badge&logo=vercel)](https://nihell-portfolio.vercel.app)
 
 ---
 
@@ -103,37 +113,39 @@ Responsive professional portfolio showcasing projects, technical skills, interns
 
 **Automated Diagnosis of Oral Cancer Using Deep Learning Models on Lesion Images**
 
-IEEE Xplore | 2026
+Published in IEEE Xplore — 2026.
 
 [![IEEE](https://img.shields.io/badge/READ_RESEARCH_PAPER-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/document/11543693)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nihells&show_icons=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nihells&show_icons=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE&hide_border=true" alt="GitHub Statistics"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihells&layout=compact&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihells&layout=compact&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&hide_border=true" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=nihells&theme=github-dark-blue&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=nihells&theme=github-dark-blue&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="Contribution Streak"/>
 
 </div>
 
 ---
 
-## 📈 Development Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nihells&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nihells&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Contribution Activity"/>
 
 </div>
 
 ---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -141,8 +153,18 @@ IEEE Xplore | 2026
 
 **Open to Software Development, AI/ML and Generative AI opportunities.**
 
-[![Visit Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://nihell-portfolio.vercel.app)
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=100&section=footer"/>
+[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://nihell-portfolio.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/nihell2004)
+
+[![Email](https://img.shields.io/badge/SEND_EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:nihell2004@gmail.com)
+
+<br/>
+
+**Thank you for visiting my profile!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:164e63,100:0891b2&height=100&section=footer" alt="Footer"/>
 
 </div>
